@@ -1,6 +1,6 @@
-## Welcome!
-- 🔭 I’m currently working on a school project.
-- 🌱 I’m currently learning CSS and JavaScript.
+## Welcome! 🤙
+- 💻 I’m currently working on a school project.
+- 📓3 I’m currently learning Arduino, JavaScript, React, NodeJS and CSharp.
 - 📫 How to reach me: igorgomeleite@gmail.com.
 - 😄 Pronouns: he/him.
 ##
@@ -19,7 +19,9 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Rafa-CSS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+ 
+  ![Snake animation](https://github.com/IgorLGomes/IgorLGomes/blob/output/github-contribution-grid-snake.svg)
+ 
