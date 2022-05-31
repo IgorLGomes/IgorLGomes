@@ -22,6 +22,3 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
- 
-  ![Snake animation](https://github.com/IgorLGomes/IgorLGomes/blob/output/github-contribution-grid-snake.svg)
- 
