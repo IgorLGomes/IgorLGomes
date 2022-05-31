@@ -1,6 +1,6 @@
 ## Welcome! 🤙
 - 💻 I’m currently working on a school project.
-- 📓3 I’m currently learning Arduino, JavaScript, React, NodeJS and CSharp.
+- 📓 I’m currently learning Arduino, JavaScript, React, NodeJS and CSharp.
 - 📫 How to reach me: igorgomeleite@gmail.com.
 - 😄 Pronouns: he/him.
 ##
