@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Igor
 - Técnico em Desenvolvimento de Sistemas pela ETEC Registro
 - Cursando Desenvolvimento de Software Multiplataforma na FATEC Registro
-- Estagiário de DevSecOps na Compass UOL
+- Estagiário de Cloud e DevSecOps na Compass UOL
   
 ## Contato:
   - Email: igorgomeleite@gmail.com
